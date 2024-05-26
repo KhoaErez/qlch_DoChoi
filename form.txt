@@ -1,0 +1,10 @@
+form nhà cung cấp 	v
+form loại đồ chơi	v
+form đồ chơi  		v
+form hóa đơn bán hàng 	x
+form phiếu giao hàng	v
+
+
+phiếu trả nợ
+khách hàng
+phiếu hẹn

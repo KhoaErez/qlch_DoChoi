@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oDqwltyTGXTDnrmUa9fN1vuRSBKsacZWbenFvSAFkUxbjkau4eqA2jFG0EsGXHzcrNYWJwN0rxdMgKDIcO7lA==",
+  "success": true,
+  "projectFilePath": "D:\\Years3\\Ki2\\DoAn1\\CodeThue\\qldc_4\\Login\\QuanLyBanHang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TQC\\.nuget\\packages\\epplus\\7.0.0\\epplus.7.0.0.nupkg.sha512",
+    "C:\\Users\\TQC\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
+    "C:\\Users\\TQC\\.nuget\\packages\\epplus.system.drawing\\6.1.1\\epplus.system.drawing.6.1.1.nupkg.sha512",
+    "C:\\Users\\TQC\\.nuget\\packages\\microsoft.io.recyclablememorystream\\1.4.1\\microsoft.io.recyclablememorystream.1.4.1.nupkg.sha512",
+    "C:\\Users\\TQC\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
